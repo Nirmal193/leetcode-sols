@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Nirmal193/leetcode-sols/tree/master/0883-car-fleet) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nirmal193/leetcode-sols/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1902-car-fleet-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1902-car-fleet-ii) |
+| [2317-count-collisions-on-a-road](https://github.com/Nirmal193/leetcode-sols/tree/master/2317-count-collisions-on-a-road) |
 ## Greedy
 |  |
 | ------- |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1902-car-fleet-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1902-car-fleet-ii) |
+## String
+|  |
+| ------- |
+| [2317-count-collisions-on-a-road](https://github.com/Nirmal193/leetcode-sols/tree/master/2317-count-collisions-on-a-road) |
+## Simulation
+|  |
+| ------- |
+| [2317-count-collisions-on-a-road](https://github.com/Nirmal193/leetcode-sols/tree/master/2317-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
