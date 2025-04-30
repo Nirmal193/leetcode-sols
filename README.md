@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nirmal193/leetcode-sols/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1130-last-stone-weight-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nirmal193/leetcode-sols/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nirmal193/leetcode-sols/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1902-car-fleet-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1902-car-fleet-ii) |
 | [2245-destroying-asteroids](https://github.com/Nirmal193/leetcode-sols/tree/master/2245-destroying-asteroids) |
 ## Dynamic Programming
@@ -58,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nirmal193/leetcode-sols/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2317-count-collisions-on-a-road](https://github.com/Nirmal193/leetcode-sols/tree/master/2317-count-collisions-on-a-road) |
+## Brainteaser
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nirmal193/leetcode-sols/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
