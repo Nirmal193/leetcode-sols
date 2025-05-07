@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Nirmal193/leetcode-sols/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
 | [0883-car-fleet](https://github.com/Nirmal193/leetcode-sols/tree/master/0883-car-fleet) |
 | [1105-uncrossed-lines](https://github.com/Nirmal193/leetcode-sols/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nirmal193/leetcode-sols/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nirmal193/leetcode-sols/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [2245-destroying-asteroids](https://github.com/Nirmal193/leetcode-sols/tree/master/2245-destroying-asteroids) |
 ## Monotonic Stack
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Nirmal193/leetcode-sols/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
 | [0883-car-fleet](https://github.com/Nirmal193/leetcode-sols/tree/master/0883-car-fleet) |
 | [2245-destroying-asteroids](https://github.com/Nirmal193/leetcode-sols/tree/master/2245-destroying-asteroids) |
 | [2787-movement-of-robots](https://github.com/Nirmal193/leetcode-sols/tree/master/2787-movement-of-robots) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
 | [2317-count-collisions-on-a-road](https://github.com/Nirmal193/leetcode-sols/tree/master/2317-count-collisions-on-a-road) |
 ## Simulation
 |  |
