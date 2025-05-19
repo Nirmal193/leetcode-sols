@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nirmal193/leetcode-sols/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1130-last-stone-weight-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nirmal193/leetcode-sols/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1239-largest-1-bordered-square](https://github.com/Nirmal193/leetcode-sols/tree/master/1239-largest-1-bordered-square) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nirmal193/leetcode-sols/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1902-car-fleet-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1902-car-fleet-ii) |
 | [2245-destroying-asteroids](https://github.com/Nirmal193/leetcode-sols/tree/master/2245-destroying-asteroids) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nirmal193/leetcode-sols/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1130-last-stone-weight-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nirmal193/leetcode-sols/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1239-largest-1-bordered-square](https://github.com/Nirmal193/leetcode-sols/tree/master/1239-largest-1-bordered-square) |
 ## Stack
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nirmal193/leetcode-sols/tree/master/0187-repeated-dna-sequences) |
+## Matrix
+|  |
+| ------- |
+| [1239-largest-1-bordered-square](https://github.com/Nirmal193/leetcode-sols/tree/master/1239-largest-1-bordered-square) |
 <!---LeetCode Topics End-->
