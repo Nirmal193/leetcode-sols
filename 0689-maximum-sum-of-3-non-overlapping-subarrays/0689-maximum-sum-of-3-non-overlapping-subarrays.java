@@ -45,12 +45,6 @@ class Solution {
                 ansList.add(new int[] {l, m, r});
             }
         }
-        ansList.sort((a, b) -> {
-            for (int i = 0; i < 3; i++) {
-                if (a[i] != b[i]) return a[i] - b[i];
-            }
-            return 0;
-        });
         return ansList.get(0);
     }
 }
