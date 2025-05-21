@@ -33,11 +33,7 @@ class Solution {
             int l = left[i - k], m = i, r = right[i + k];
             int temp = subSum.get(l) + subSum.get(m) + subSum.get(r);
 
-            if (temp >= res) {
-                if(res == temp){
-                    ansList.add(new int[]{l,m,r});
-                    continue;
-                }
+            if (temp > res) {
                 res = temp;
                 ansList.clear();
                 ansList.add(new int[] {l, m, r});
