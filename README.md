@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0132-palindrome-partitioning-ii) |
 | [0514-freedom-trail](https://github.com/Nirmal193/leetcode-sols/tree/master/0514-freedom-trail) |
 | [0546-remove-boxes](https://github.com/Nirmal193/leetcode-sols/tree/master/0546-remove-boxes) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nirmal193/leetcode-sols/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Nirmal193/leetcode-sols/tree/master/0187-repeated-dna-sequences) |
 | [0514-freedom-trail](https://github.com/Nirmal193/leetcode-sols/tree/master/0514-freedom-trail) |
