@@ -46,6 +46,8 @@ class Solution {
         if (!graph.containsKey(node)) return false;
         visiting.add(node);
 
+        visited.add(node);
+
         for (int neighbor : graph.get(node)) {
             if (visiting.contains(neighbor)) {
                 return true;
@@ -56,7 +58,6 @@ class Solution {
         }
 
         visiting.remove(node);
-        visited.add(node);
         return false;
     }
 }
