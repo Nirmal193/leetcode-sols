@@ -134,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0514-freedom-trail](https://github.com/Nirmal193/leetcode-sols/tree/master/0514-freedom-trail) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Nirmal193/leetcode-sols/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0514-freedom-trail](https://github.com/Nirmal193/leetcode-sols/tree/master/0514-freedom-trail) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Nirmal193/leetcode-sols/tree/master/2439-longest-cycle-in-a-graph) |
 ## Memoization
 |  |
 | ------- |
@@ -146,8 +148,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1696-strange-printer-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1696-strange-printer-ii) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Nirmal193/leetcode-sols/tree/master/2439-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [1696-strange-printer-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1696-strange-printer-ii) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Nirmal193/leetcode-sols/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
