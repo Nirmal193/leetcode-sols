@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
 | [0546-remove-boxes](https://github.com/Nirmal193/leetcode-sols/tree/master/0546-remove-boxes) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nirmal193/leetcode-sols/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0691-stickers-to-spell-word](https://github.com/Nirmal193/leetcode-sols/tree/master/0691-stickers-to-spell-word) |
 | [0883-car-fleet](https://github.com/Nirmal193/leetcode-sols/tree/master/0883-car-fleet) |
 | [1105-uncrossed-lines](https://github.com/Nirmal193/leetcode-sols/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nirmal193/leetcode-sols/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/Nirmal193/leetcode-sols/tree/master/0546-remove-boxes) |
 | [0664-strange-printer](https://github.com/Nirmal193/leetcode-sols/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nirmal193/leetcode-sols/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0691-stickers-to-spell-word](https://github.com/Nirmal193/leetcode-sols/tree/master/0691-stickers-to-spell-word) |
 | [0836-race-car](https://github.com/Nirmal193/leetcode-sols/tree/master/0836-race-car) |
 | [1105-uncrossed-lines](https://github.com/Nirmal193/leetcode-sols/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nirmal193/leetcode-sols/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Nirmal193/leetcode-sols/tree/master/0383-ransom-note) |
 | [0514-freedom-trail](https://github.com/Nirmal193/leetcode-sols/tree/master/0514-freedom-trail) |
 | [0664-strange-printer](https://github.com/Nirmal193/leetcode-sols/tree/master/0664-strange-printer) |
+| [0691-stickers-to-spell-word](https://github.com/Nirmal193/leetcode-sols/tree/master/0691-stickers-to-spell-word) |
 | [2317-count-collisions-on-a-road](https://github.com/Nirmal193/leetcode-sols/tree/master/2317-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -111,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nirmal193/leetcode-sols/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/Nirmal193/leetcode-sols/tree/master/0383-ransom-note) |
+| [0691-stickers-to-spell-word](https://github.com/Nirmal193/leetcode-sols/tree/master/0691-stickers-to-spell-word) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nirmal193/leetcode-sols/tree/master/0187-repeated-dna-sequences) |
+| [0691-stickers-to-spell-word](https://github.com/Nirmal193/leetcode-sols/tree/master/0691-stickers-to-spell-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0546-remove-boxes](https://github.com/Nirmal193/leetcode-sols/tree/master/0546-remove-boxes) |
+| [0691-stickers-to-spell-word](https://github.com/Nirmal193/leetcode-sols/tree/master/0691-stickers-to-spell-word) |
 ## Graph
 |  |
 | ------- |
@@ -163,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Nirmal193/leetcode-sols/tree/master/0383-ransom-note) |
+## Backtracking
+|  |
+| ------- |
+| [0691-stickers-to-spell-word](https://github.com/Nirmal193/leetcode-sols/tree/master/0691-stickers-to-spell-word) |
+## Bitmask
+|  |
+| ------- |
+| [0691-stickers-to-spell-word](https://github.com/Nirmal193/leetcode-sols/tree/master/0691-stickers-to-spell-word) |
 <!---LeetCode Topics End-->
