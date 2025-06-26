@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Nirmal193/leetcode-sols/tree/master/0187-repeated-dna-sequences) |
+| [0383-ransom-note](https://github.com/Nirmal193/leetcode-sols/tree/master/0383-ransom-note) |
 | [0514-freedom-trail](https://github.com/Nirmal193/leetcode-sols/tree/master/0514-freedom-trail) |
 | [0664-strange-printer](https://github.com/Nirmal193/leetcode-sols/tree/master/0664-strange-printer) |
 | [2317-count-collisions-on-a-road](https://github.com/Nirmal193/leetcode-sols/tree/master/2317-count-collisions-on-a-road) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nirmal193/leetcode-sols/tree/master/0187-repeated-dna-sequences) |
+| [0383-ransom-note](https://github.com/Nirmal193/leetcode-sols/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1696-strange-printer-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1696-strange-printer-ii) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Nirmal193/leetcode-sols/tree/master/2439-longest-cycle-in-a-graph) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Nirmal193/leetcode-sols/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
