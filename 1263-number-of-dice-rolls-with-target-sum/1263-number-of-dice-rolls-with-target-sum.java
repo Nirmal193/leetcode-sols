@@ -1,18 +1,18 @@
 class Solution {
-    private final int mod = (int)1e9+7;
     public int numRollsToTarget(int n, int k, int target) {
-        int dp[] = new int[target+1];
-        dp[0] = 1;
-        for(int i=1;i<=n;i++){
-            int newdp[] = new int[target+1];
-            for(int j=1;j<=k;j++){
-                for(int t=1;t<=target;t++){
-                    if(t-j >= 0)
-                        newdp[t] = (newdp[t] + dp[t-j])%mod;
+        int mod = 1_000_000_007;
+        int[][] dp = new int[n + 1][target + 1];
+        dp[0][0] = 1;
+
+        for (int i = 1; i <= n; i++) {  
+            for (int j = 1; j <= target; j++) { 
+                for (int f = 1; f <= k; f++) { 
+                    if (f <= j) {
+                        dp[i][j] = (dp[i][j] + dp[i - 1][j - f]) % mod;
+                    }
                 }
             }
-            dp = newdp;
         }
-        return dp[target];
+        return dp[n][target];
     }
 }
