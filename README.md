@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-last-stone-weight-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1130-last-stone-weight-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nirmal193/leetcode-sols/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1239-largest-1-bordered-square](https://github.com/Nirmal193/leetcode-sols/tree/master/1239-largest-1-bordered-square) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/Nirmal193/leetcode-sols/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nirmal193/leetcode-sols/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1696-strange-printer-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1696-strange-printer-ii) |
 | [1902-car-fleet-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1902-car-fleet-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nirmal193/leetcode-sols/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1239-largest-1-bordered-square](https://github.com/Nirmal193/leetcode-sols/tree/master/1239-largest-1-bordered-square) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Nirmal193/leetcode-sols/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/Nirmal193/leetcode-sols/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/Nirmal193/leetcode-sols/tree/master/2633-minimum-cost-to-split-an-array) |
 ## Stack
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nirmal193/leetcode-sols/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/Nirmal193/leetcode-sols/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [2787-movement-of-robots](https://github.com/Nirmal193/leetcode-sols/tree/master/2787-movement-of-robots) |
 ## Bucket Sort
 |  |
