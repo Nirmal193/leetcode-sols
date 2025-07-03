@@ -8,14 +8,9 @@ class MyCalendar {
     
     public boolean book(int startTime, int endTime) {
         for(int[] arr: calender){
-            if(startTime >= arr[0] && startTime < arr[1])
-                return false;
-            if(endTime <= arr[1] && endTime > arr[0])
-                return false;
-            if(arr[0] >= startTime && arr[0] < endTime)
-                return false;
-            if(arr[1] > startTime && arr[1] <= endTime)
-                return false;
+            if (!(endTime <= arr[0] || startTime >= arr[1])) {
+            return false;
+        }
         }
         calender.add(new int[]{startTime,endTime} );
         return true;
