@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nirmal193/leetcode-sols/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0731-my-calendar-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Nirmal193/leetcode-sols/tree/master/0732-my-calendar-iii) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Nirmal193/leetcode-sols/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [2787-movement-of-robots](https://github.com/Nirmal193/leetcode-sols/tree/master/2787-movement-of-robots) |
 ## Bucket Sort
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Nirmal193/leetcode-sols/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/Nirmal193/leetcode-sols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Nirmal193/leetcode-sols/tree/master/0732-my-calendar-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -214,14 +216,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Nirmal193/leetcode-sols/tree/master/0406-queue-reconstruction-by-height) |
 | [0729-my-calendar-i](https://github.com/Nirmal193/leetcode-sols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Nirmal193/leetcode-sols/tree/master/0732-my-calendar-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Nirmal193/leetcode-sols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Nirmal193/leetcode-sols/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Nirmal193/leetcode-sols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Nirmal193/leetcode-sols/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
