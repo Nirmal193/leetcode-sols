@@ -1,52 +1,47 @@
 class Solution {
-      public double separateSquares(int[][] squares) {
-        long totalArea = 0;
-        List<int[]> events = new ArrayList<>();
+     public double separateSquares(int[][] squares) {
+        TreeMap<Integer, List<Pair<Integer, Integer>>> tmap = new TreeMap<>();
+        int len = squares.length;
+        long totalArea = 0L;
 
-        for (int[] square : squares) {
-            int x = square[0];
-            int y = square[1];
-            int l = square[2];
+        for (int i = 0; i < len; i++) {
+            int x = squares[i][0];
+            int y = squares[i][1];
+            int l = squares[i][2];
+
+            tmap.computeIfAbsent(y, k -> new ArrayList<>()).add(new Pair<>(1, l));
+            tmap.computeIfAbsent(y + l, k -> new ArrayList<>()).add(new Pair<>(0, l));
             totalArea += 1L * l * l;
-
-            // Add open and close events
-            events.add(new int[]{y, 1, l});      // Opening event
-            events.add(new int[]{y + l, 0, l});  // Closing event
         }
-        // Sort by y, if tie: opening before closing
-        events.sort((a, b) -> {
-            if (a[0] != b[0]) return Integer.compare(a[0], b[0]);
-            return Integer.compare(b[1], a[1]); // Opening first if same y
-        });
 
-        long currArea = 0;
-        long combinedWidth = 0;
         int prevY = 0;
+        long currentArea = 0;
+        int width = 0;
+        double targetArea = totalArea / 2.0;
 
-        for (int i = 0; i < events.size(); i++) {
-            int y = events.get(i)[0];
-            int type = events.get(i)[1];
-            int l = events.get(i)[2];
+        for (Map.Entry<Integer, List<Pair<Integer, Integer>>> entry : tmap.entrySet()) {
+            int y = entry.getKey();
+            int diffY = y - prevY;
+            long diffArea = 1L * diffY * width;
 
-            long heightDiff = y - prevY;
-            long areaDiff = combinedWidth * heightDiff;
-
-            if (currArea + areaDiff >= totalArea / 2.0) {
-                double optimalHeight = (totalArea / 2.0 - currArea) / combinedWidth;
-                return prevY + optimalHeight;
+            if (currentArea + diffArea >= targetArea) {
+                double additionalHeight = (targetArea - currentArea) / width;
+                return prevY + additionalHeight;
             }
 
-            if (type == 1) {
-                combinedWidth += l;
-            } else {
-                combinedWidth -= l;
+            for (Pair<Integer, Integer> p : entry.getValue()) {
+                if (p.key == 1) {
+                    width += p.value;
+                } else {
+                    width -= p.value;
+                }
             }
 
-            currArea += areaDiff;
+            currentArea += diffArea;
             prevY = y;
         }
 
-        return -1; 
+        return -1;
     }
     private static class Pair<T,U>{
         T key;
