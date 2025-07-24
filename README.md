@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Nirmal193/leetcode-sols/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
+| [0218-the-skyline-problem](https://github.com/Nirmal193/leetcode-sols/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/Nirmal193/leetcode-sols/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nirmal193/leetcode-sols/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Nirmal193/leetcode-sols/tree/master/0322-coin-change) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Nirmal193/leetcode-sols/tree/master/0218-the-skyline-problem) |
 | [1902-car-fleet-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1902-car-fleet-ii) |
 ## String
 |  |
@@ -216,12 +218,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Nirmal193/leetcode-sols/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/Nirmal193/leetcode-sols/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nirmal193/leetcode-sols/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/Nirmal193/leetcode-sols/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Nirmal193/leetcode-sols/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/Nirmal193/leetcode-sols/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nirmal193/leetcode-sols/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/Nirmal193/leetcode-sols/tree/master/0406-queue-reconstruction-by-height) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Nirmal193/leetcode-sols/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nirmal193/leetcode-sols/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Nirmal193/leetcode-sols/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/Nirmal193/leetcode-sols/tree/master/0729-my-calendar-i) |
@@ -252,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Nirmal193/leetcode-sols/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nirmal193/leetcode-sols/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Merge Sort
 |  |
@@ -264,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Line Sweep
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Nirmal193/leetcode-sols/tree/master/0218-the-skyline-problem) |
 | [0391-perfect-rectangle](https://github.com/Nirmal193/leetcode-sols/tree/master/0391-perfect-rectangle) |
 | [0880-rectangle-area-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0880-rectangle-area-ii) |
 | [1028-interval-list-intersections](https://github.com/Nirmal193/leetcode-sols/tree/master/1028-interval-list-intersections) |
