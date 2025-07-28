@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Nirmal193/leetcode-sols/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
 | [0218-the-skyline-problem](https://github.com/Nirmal193/leetcode-sols/tree/master/0218-the-skyline-problem) |
+| [0268-missing-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/Nirmal193/leetcode-sols/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nirmal193/leetcode-sols/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Nirmal193/leetcode-sols/tree/master/0322-coin-change) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Nirmal193/leetcode-sols/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Nirmal193/leetcode-sols/tree/master/0406-queue-reconstruction-by-height) |
 | [0883-car-fleet](https://github.com/Nirmal193/leetcode-sols/tree/master/0883-car-fleet) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/Nirmal193/leetcode-sols/tree/master/0391-perfect-rectangle) |
 | [1902-car-fleet-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1902-car-fleet-ii) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Nirmal193/leetcode-sols/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nirmal193/leetcode-sols/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Nirmal193/leetcode-sols/tree/master/0383-ransom-note) |
 | [0391-perfect-rectangle](https://github.com/Nirmal193/leetcode-sols/tree/master/0391-perfect-rectangle) |
 | [0691-stickers-to-spell-word](https://github.com/Nirmal193/leetcode-sols/tree/master/0691-stickers-to-spell-word) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nirmal193/leetcode-sols/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0268-missing-number) |
 | [0691-stickers-to-spell-word](https://github.com/Nirmal193/leetcode-sols/tree/master/0691-stickers-to-spell-word) |
 ## Sliding Window
 |  |
@@ -240,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nirmal193/leetcode-sols/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Nirmal193/leetcode-sols/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/Nirmal193/leetcode-sols/tree/master/0729-my-calendar-i) |
