@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Nirmal193/leetcode-sols/tree/master/0367-valid-perfect-square) |
 | [0391-perfect-rectangle](https://github.com/Nirmal193/leetcode-sols/tree/master/0391-perfect-rectangle) |
 | [1902-car-fleet-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1902-car-fleet-ii) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Nirmal193/leetcode-sols/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nirmal193/leetcode-sols/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Nirmal193/leetcode-sols/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0367-valid-perfect-square](https://github.com/Nirmal193/leetcode-sols/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nirmal193/leetcode-sols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/Nirmal193/leetcode-sols/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Nirmal193/leetcode-sols/tree/master/0456-132-pattern) |
