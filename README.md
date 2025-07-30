@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nirmal193/leetcode-sols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0546-remove-boxes](https://github.com/Nirmal193/leetcode-sols/tree/master/0546-remove-boxes) |
+| [0611-valid-triangle-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0611-valid-triangle-number) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nirmal193/leetcode-sols/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/Nirmal193/leetcode-sols/tree/master/0691-stickers-to-spell-word) |
 | [0729-my-calendar-i](https://github.com/Nirmal193/leetcode-sols/tree/master/0729-my-calendar-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
+| [0611-valid-triangle-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0611-valid-triangle-number) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nirmal193/leetcode-sols/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [2245-destroying-asteroids](https://github.com/Nirmal193/leetcode-sols/tree/master/2245-destroying-asteroids) |
 ## Monotonic Stack
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Nirmal193/leetcode-sols/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/Nirmal193/leetcode-sols/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/Nirmal193/leetcode-sols/tree/master/0475-heaters) |
+| [0611-valid-triangle-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0611-valid-triangle-number) |
 | [0883-car-fleet](https://github.com/Nirmal193/leetcode-sols/tree/master/0883-car-fleet) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2245-destroying-asteroids](https://github.com/Nirmal193/leetcode-sols/tree/master/2245-destroying-asteroids) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Nirmal193/leetcode-sols/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Nirmal193/leetcode-sols/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nirmal193/leetcode-sols/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/Nirmal193/leetcode-sols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nirmal193/leetcode-sols/tree/master/0732-my-calendar-iii) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0475-heaters](https://github.com/Nirmal193/leetcode-sols/tree/master/0475-heaters) |
+| [0611-valid-triangle-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0611-valid-triangle-number) |
 | [1028-interval-list-intersections](https://github.com/Nirmal193/leetcode-sols/tree/master/1028-interval-list-intersections) |
 ## Line Sweep
 |  |
