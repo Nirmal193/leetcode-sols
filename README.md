@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Nirmal193/leetcode-sols/tree/master/0367-valid-perfect-square) |
 | [0391-perfect-rectangle](https://github.com/Nirmal193/leetcode-sols/tree/master/0391-perfect-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/Nirmal193/leetcode-sols/tree/master/0633-sum-of-square-numbers) |
+| [0755-reach-a-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0755-reach-a-number) |
 | [0912-random-pick-with-weight](https://github.com/Nirmal193/leetcode-sols/tree/master/0912-random-pick-with-weight) |
 | [1902-car-fleet-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1902-car-fleet-ii) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Nirmal193/leetcode-sols/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Nirmal193/leetcode-sols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nirmal193/leetcode-sols/tree/master/0732-my-calendar-iii) |
+| [0755-reach-a-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0755-reach-a-number) |
 | [0912-random-pick-with-weight](https://github.com/Nirmal193/leetcode-sols/tree/master/0912-random-pick-with-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
 | [3763-separate-squares-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3763-separate-squares-i) |
