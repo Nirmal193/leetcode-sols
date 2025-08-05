@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Nirmal193/leetcode-sols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0731-my-calendar-ii) |
 | [0852-friends-of-appropriate-ages](https://github.com/Nirmal193/leetcode-sols/tree/master/0852-friends-of-appropriate-ages) |
+| [0853-most-profit-assigning-work](https://github.com/Nirmal193/leetcode-sols/tree/master/0853-most-profit-assigning-work) |
 | [0880-rectangle-area-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0880-rectangle-area-ii) |
 | [0883-car-fleet](https://github.com/Nirmal193/leetcode-sols/tree/master/0883-car-fleet) |
 | [0912-random-pick-with-weight](https://github.com/Nirmal193/leetcode-sols/tree/master/0912-random-pick-with-weight) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0611-valid-triangle-number) |
+| [0853-most-profit-assigning-work](https://github.com/Nirmal193/leetcode-sols/tree/master/0853-most-profit-assigning-work) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nirmal193/leetcode-sols/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [2245-destroying-asteroids](https://github.com/Nirmal193/leetcode-sols/tree/master/2245-destroying-asteroids) |
 ## Monotonic Stack
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nirmal193/leetcode-sols/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0611-valid-triangle-number) |
 | [0852-friends-of-appropriate-ages](https://github.com/Nirmal193/leetcode-sols/tree/master/0852-friends-of-appropriate-ages) |
+| [0853-most-profit-assigning-work](https://github.com/Nirmal193/leetcode-sols/tree/master/0853-most-profit-assigning-work) |
 | [0883-car-fleet](https://github.com/Nirmal193/leetcode-sols/tree/master/0883-car-fleet) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2245-destroying-asteroids](https://github.com/Nirmal193/leetcode-sols/tree/master/2245-destroying-asteroids) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Nirmal193/leetcode-sols/tree/master/0732-my-calendar-iii) |
 | [0755-reach-a-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0755-reach-a-number) |
 | [0852-friends-of-appropriate-ages](https://github.com/Nirmal193/leetcode-sols/tree/master/0852-friends-of-appropriate-ages) |
+| [0853-most-profit-assigning-work](https://github.com/Nirmal193/leetcode-sols/tree/master/0853-most-profit-assigning-work) |
 | [0912-random-pick-with-weight](https://github.com/Nirmal193/leetcode-sols/tree/master/0912-random-pick-with-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
 | [3763-separate-squares-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3763-separate-squares-i) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Nirmal193/leetcode-sols/tree/master/0633-sum-of-square-numbers) |
 | [0852-friends-of-appropriate-ages](https://github.com/Nirmal193/leetcode-sols/tree/master/0852-friends-of-appropriate-ages) |
+| [0853-most-profit-assigning-work](https://github.com/Nirmal193/leetcode-sols/tree/master/0853-most-profit-assigning-work) |
 | [1028-interval-list-intersections](https://github.com/Nirmal193/leetcode-sols/tree/master/1028-interval-list-intersections) |
 ## Line Sweep
 |  |
