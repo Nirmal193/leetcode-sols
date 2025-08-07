@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nirmal193/leetcode-sols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1902-car-fleet-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1902-car-fleet-ii) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2161-stock-price-fluctuation](https://github.com/Nirmal193/leetcode-sols/tree/master/2161-stock-price-fluctuation) |
 ## String
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/Nirmal193/leetcode-sols/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/Nirmal193/leetcode-sols/tree/master/1023-time-based-key-value-store) |
 | [1483-rank-teams-by-votes](https://github.com/Nirmal193/leetcode-sols/tree/master/1483-rank-teams-by-votes) |
+| [2161-stock-price-fluctuation](https://github.com/Nirmal193/leetcode-sols/tree/master/2161-stock-price-fluctuation) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/Nirmal193/leetcode-sols/tree/master/2633-minimum-cost-to-split-an-array) |
 ## Bit Manipulation
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Nirmal193/leetcode-sols/tree/master/0732-my-calendar-iii) |
 | [0947-online-election](https://github.com/Nirmal193/leetcode-sols/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/Nirmal193/leetcode-sols/tree/master/1023-time-based-key-value-store) |
+| [2161-stock-price-fluctuation](https://github.com/Nirmal193/leetcode-sols/tree/master/2161-stock-price-fluctuation) |
 | [2357-count-integers-in-intervals](https://github.com/Nirmal193/leetcode-sols/tree/master/2357-count-integers-in-intervals) |
 ## Binary Indexed Tree
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nirmal193/leetcode-sols/tree/master/0732-my-calendar-iii) |
 | [0880-rectangle-area-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0880-rectangle-area-ii) |
+| [2161-stock-price-fluctuation](https://github.com/Nirmal193/leetcode-sols/tree/master/2161-stock-price-fluctuation) |
 | [2357-count-integers-in-intervals](https://github.com/Nirmal193/leetcode-sols/tree/master/2357-count-integers-in-intervals) |
 ## Divide and Conquer
 |  |
@@ -355,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/Nirmal193/leetcode-sols/tree/master/0912-random-pick-with-weight) |
+## Data Stream
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/Nirmal193/leetcode-sols/tree/master/2161-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
