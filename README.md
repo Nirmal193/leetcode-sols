@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-last-stone-weight-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1130-last-stone-weight-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nirmal193/leetcode-sols/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1239-largest-1-bordered-square](https://github.com/Nirmal193/leetcode-sols/tree/master/1239-largest-1-bordered-square) |
+| [1249-snapshot-array](https://github.com/Nirmal193/leetcode-sols/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Nirmal193/leetcode-sols/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1483-rank-teams-by-votes](https://github.com/Nirmal193/leetcode-sols/tree/master/1483-rank-teams-by-votes) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Nirmal193/leetcode-sols/tree/master/0691-stickers-to-spell-word) |
 | [0947-online-election](https://github.com/Nirmal193/leetcode-sols/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/Nirmal193/leetcode-sols/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/Nirmal193/leetcode-sols/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1483-rank-teams-by-votes](https://github.com/Nirmal193/leetcode-sols/tree/master/1483-rank-teams-by-votes) |
 | [2161-stock-price-fluctuation](https://github.com/Nirmal193/leetcode-sols/tree/master/2161-stock-price-fluctuation) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Nirmal193/leetcode-sols/tree/master/0732-my-calendar-iii) |
 | [0947-online-election](https://github.com/Nirmal193/leetcode-sols/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/Nirmal193/leetcode-sols/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/Nirmal193/leetcode-sols/tree/master/1249-snapshot-array) |
 | [2161-stock-price-fluctuation](https://github.com/Nirmal193/leetcode-sols/tree/master/2161-stock-price-fluctuation) |
 | [2357-count-integers-in-intervals](https://github.com/Nirmal193/leetcode-sols/tree/master/2357-count-integers-in-intervals) |
 ## Binary Indexed Tree
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/Nirmal193/leetcode-sols/tree/master/0912-random-pick-with-weight) |
 | [0947-online-election](https://github.com/Nirmal193/leetcode-sols/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/Nirmal193/leetcode-sols/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/Nirmal193/leetcode-sols/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
 | [3763-separate-squares-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3763-separate-squares-i) |
