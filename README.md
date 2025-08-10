@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nirmal193/leetcode-sols/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1130-last-stone-weight-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nirmal193/leetcode-sols/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/Nirmal193/leetcode-sols/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1239-largest-1-bordered-square](https://github.com/Nirmal193/leetcode-sols/tree/master/1239-largest-1-bordered-square) |
 | [1249-snapshot-array](https://github.com/Nirmal193/leetcode-sols/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-friends-of-appropriate-ages](https://github.com/Nirmal193/leetcode-sols/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/Nirmal193/leetcode-sols/tree/master/0853-most-profit-assigning-work) |
 | [0883-car-fleet](https://github.com/Nirmal193/leetcode-sols/tree/master/0883-car-fleet) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/Nirmal193/leetcode-sols/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1483-rank-teams-by-votes](https://github.com/Nirmal193/leetcode-sols/tree/master/1483-rank-teams-by-votes) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/Nirmal193/leetcode-sols/tree/master/0912-random-pick-with-weight) |
 | [0947-online-election](https://github.com/Nirmal193/leetcode-sols/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/Nirmal193/leetcode-sols/tree/master/1023-time-based-key-value-store) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/Nirmal193/leetcode-sols/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1249-snapshot-array](https://github.com/Nirmal193/leetcode-sols/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nirmal193/leetcode-sols/tree/master/1321-get-equal-substrings-within-budget) |
