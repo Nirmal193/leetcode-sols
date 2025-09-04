@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Nirmal193/leetcode-sols/tree/master/0664-strange-printer) |
 | [0691-stickers-to-spell-word](https://github.com/Nirmal193/leetcode-sols/tree/master/0691-stickers-to-spell-word) |
 | [1023-time-based-key-value-store](https://github.com/Nirmal193/leetcode-sols/tree/master/1023-time-based-key-value-store) |
+| [1122-longest-duplicate-substring](https://github.com/Nirmal193/leetcode-sols/tree/master/1122-longest-duplicate-substring) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nirmal193/leetcode-sols/tree/master/1321-get-equal-substrings-within-budget) |
 | [1483-rank-teams-by-votes](https://github.com/Nirmal193/leetcode-sols/tree/master/1483-rank-teams-by-votes) |
@@ -208,15 +209,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nirmal193/leetcode-sols/tree/master/0187-repeated-dna-sequences) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nirmal193/leetcode-sols/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1122-longest-duplicate-substring](https://github.com/Nirmal193/leetcode-sols/tree/master/1122-longest-duplicate-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nirmal193/leetcode-sols/tree/master/1321-get-equal-substrings-within-budget) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nirmal193/leetcode-sols/tree/master/0187-repeated-dna-sequences) |
+| [1122-longest-duplicate-substring](https://github.com/Nirmal193/leetcode-sols/tree/master/1122-longest-duplicate-substring) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nirmal193/leetcode-sols/tree/master/0187-repeated-dna-sequences) |
+| [1122-longest-duplicate-substring](https://github.com/Nirmal193/leetcode-sols/tree/master/1122-longest-duplicate-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/Nirmal193/leetcode-sols/tree/master/0912-random-pick-with-weight) |
 | [0947-online-election](https://github.com/Nirmal193/leetcode-sols/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/Nirmal193/leetcode-sols/tree/master/1023-time-based-key-value-store) |
+| [1122-longest-duplicate-substring](https://github.com/Nirmal193/leetcode-sols/tree/master/1122-longest-duplicate-substring) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Nirmal193/leetcode-sols/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1249-snapshot-array](https://github.com/Nirmal193/leetcode-sols/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -379,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/Nirmal193/leetcode-sols/tree/master/2161-stock-price-fluctuation) |
+## Suffix Array
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/Nirmal193/leetcode-sols/tree/master/1122-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
