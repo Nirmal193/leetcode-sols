@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
 | [0218-the-skyline-problem](https://github.com/Nirmal193/leetcode-sols/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0275-h-index-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Nirmal193/leetcode-sols/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nirmal193/leetcode-sols/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Nirmal193/leetcode-sols/tree/master/0322-coin-change) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0275-h-index-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nirmal193/leetcode-sols/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Nirmal193/leetcode-sols/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0367-valid-perfect-square](https://github.com/Nirmal193/leetcode-sols/tree/master/0367-valid-perfect-square) |
