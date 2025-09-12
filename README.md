@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Nirmal193/leetcode-sols/tree/master/0633-sum-of-square-numbers) |
 | [0755-reach-a-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0755-reach-a-number) |
 | [0912-random-pick-with-weight](https://github.com/Nirmal193/leetcode-sols/tree/master/0912-random-pick-with-weight) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Nirmal193/leetcode-sols/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1902-car-fleet-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1902-car-fleet-ii) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Nirmal193/leetcode-sols/tree/master/2284-smallest-value-of-the-rearranged-number) |
 ## Heap (Priority Queue)
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/Nirmal193/leetcode-sols/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nirmal193/leetcode-sols/tree/master/1321-get-equal-substrings-within-budget) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Nirmal193/leetcode-sols/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nirmal193/leetcode-sols/tree/master/2665-minimum-time-to-repair-cars) |
 | [3763-separate-squares-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3763-separate-squares-i) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-friends-of-appropriate-ages](https://github.com/Nirmal193/leetcode-sols/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/Nirmal193/leetcode-sols/tree/master/0853-most-profit-assigning-work) |
 | [1028-interval-list-intersections](https://github.com/Nirmal193/leetcode-sols/tree/master/1028-interval-list-intersections) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Nirmal193/leetcode-sols/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 ## Line Sweep
 |  |
 | ------- |
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-longest-duplicate-substring](https://github.com/Nirmal193/leetcode-sols/tree/master/1122-longest-duplicate-substring) |
+## Interactive
+|  |
+| ------- |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Nirmal193/leetcode-sols/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
