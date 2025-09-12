@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2245-destroying-asteroids](https://github.com/Nirmal193/leetcode-sols/tree/master/2245-destroying-asteroids) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/Nirmal193/leetcode-sols/tree/master/2633-minimum-cost-to-split-an-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Nirmal193/leetcode-sols/tree/master/2665-minimum-time-to-repair-cars) |
 | [2787-movement-of-robots](https://github.com/Nirmal193/leetcode-sols/tree/master/2787-movement-of-robots) |
 | [3763-separate-squares-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3763-separate-squares-i) |
 ## Dynamic Programming
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nirmal193/leetcode-sols/tree/master/1321-get-equal-substrings-within-budget) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Nirmal193/leetcode-sols/tree/master/2665-minimum-time-to-repair-cars) |
 | [3763-separate-squares-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3763-separate-squares-i) |
 ## Ordered Set
 |  |
