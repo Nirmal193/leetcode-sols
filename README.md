@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Nirmal193/leetcode-sols/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1483-rank-teams-by-votes](https://github.com/Nirmal193/leetcode-sols/tree/master/1483-rank-teams-by-votes) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nirmal193/leetcode-sols/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1684-find-latest-group-of-size-m](https://github.com/Nirmal193/leetcode-sols/tree/master/1684-find-latest-group-of-size-m) |
 | [1696-strange-printer-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1696-strange-printer-ii) |
 | [1902-car-fleet-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1902-car-fleet-ii) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nirmal193/leetcode-sols/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1684-find-latest-group-of-size-m](https://github.com/Nirmal193/leetcode-sols/tree/master/1684-find-latest-group-of-size-m) |
 | [2317-count-collisions-on-a-road](https://github.com/Nirmal193/leetcode-sols/tree/master/2317-count-collisions-on-a-road) |
 ## Brainteaser
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/Nirmal193/leetcode-sols/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1483-rank-teams-by-votes](https://github.com/Nirmal193/leetcode-sols/tree/master/1483-rank-teams-by-votes) |
+| [1684-find-latest-group-of-size-m](https://github.com/Nirmal193/leetcode-sols/tree/master/1684-find-latest-group-of-size-m) |
 | [2161-stock-price-fluctuation](https://github.com/Nirmal193/leetcode-sols/tree/master/2161-stock-price-fluctuation) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/Nirmal193/leetcode-sols/tree/master/2633-minimum-cost-to-split-an-array) |
 ## Bit Manipulation
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nirmal193/leetcode-sols/tree/master/1321-get-equal-substrings-within-budget) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Nirmal193/leetcode-sols/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [1684-find-latest-group-of-size-m](https://github.com/Nirmal193/leetcode-sols/tree/master/1684-find-latest-group-of-size-m) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nirmal193/leetcode-sols/tree/master/2665-minimum-time-to-repair-cars) |
 | [3763-separate-squares-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3763-separate-squares-i) |
