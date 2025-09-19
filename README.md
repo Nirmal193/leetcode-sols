@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Nirmal193/leetcode-sols/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1483-rank-teams-by-votes](https://github.com/Nirmal193/leetcode-sols/tree/master/1483-rank-teams-by-votes) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nirmal193/leetcode-sols/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nirmal193/leetcode-sols/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1684-find-latest-group-of-size-m](https://github.com/Nirmal193/leetcode-sols/tree/master/1684-find-latest-group-of-size-m) |
 | [1696-strange-printer-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1696-strange-printer-ii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nirmal193/leetcode-sols/tree/master/1321-get-equal-substrings-within-budget) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Nirmal193/leetcode-sols/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nirmal193/leetcode-sols/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1684-find-latest-group-of-size-m](https://github.com/Nirmal193/leetcode-sols/tree/master/1684-find-latest-group-of-size-m) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nirmal193/leetcode-sols/tree/master/2665-minimum-time-to-repair-cars) |
