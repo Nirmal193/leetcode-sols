@@ -1,15 +1,15 @@
 class Solution {
     public int maxDistance(int[] position, int m) {
         TreeSet<Integer> tset = new TreeSet<Integer>(Arrays.stream(position).boxed().toList());
-        int lo = 0, hi = tset.last() - tset.first();
+        int lo = 0, hi = tset.last() - tset.first()+1;
         int ans = -1;
-        while(lo <= hi){
+        while(lo < hi){
             int mid = lo + (hi-lo)/2;
             if(isPossible(tset,mid,m)){
                 ans = mid;
                 lo = mid+1;
             }else 
-                hi = mid-1;
+                hi = mid;
         }
         return ans;
     }
