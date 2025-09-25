@@ -11,7 +11,6 @@ class Solution {
             }else 
                 hi = mid-1;
         }
-        System.out.println(lo);
         return ans;
     }
     public boolean isPossible(TreeSet<Integer> treeSet, int target, int m){
