@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Nirmal193/leetcode-sols/tree/master/0883-car-fleet) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/Nirmal193/leetcode-sols/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1470-tweet-counts-per-frequency](https://github.com/Nirmal193/leetcode-sols/tree/master/1470-tweet-counts-per-frequency) |
 | [1483-rank-teams-by-votes](https://github.com/Nirmal193/leetcode-sols/tree/master/1483-rank-teams-by-votes) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2245-destroying-asteroids](https://github.com/Nirmal193/leetcode-sols/tree/master/2245-destroying-asteroids) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/Nirmal193/leetcode-sols/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/Nirmal193/leetcode-sols/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1470-tweet-counts-per-frequency](https://github.com/Nirmal193/leetcode-sols/tree/master/1470-tweet-counts-per-frequency) |
 | [1483-rank-teams-by-votes](https://github.com/Nirmal193/leetcode-sols/tree/master/1483-rank-teams-by-votes) |
 | [1684-find-latest-group-of-size-m](https://github.com/Nirmal193/leetcode-sols/tree/master/1684-find-latest-group-of-size-m) |
 | [2161-stock-price-fluctuation](https://github.com/Nirmal193/leetcode-sols/tree/master/2161-stock-price-fluctuation) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/Nirmal193/leetcode-sols/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/Nirmal193/leetcode-sols/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/Nirmal193/leetcode-sols/tree/master/1249-snapshot-array) |
+| [1470-tweet-counts-per-frequency](https://github.com/Nirmal193/leetcode-sols/tree/master/1470-tweet-counts-per-frequency) |
 | [2161-stock-price-fluctuation](https://github.com/Nirmal193/leetcode-sols/tree/master/2161-stock-price-fluctuation) |
 | [2357-count-integers-in-intervals](https://github.com/Nirmal193/leetcode-sols/tree/master/2357-count-integers-in-intervals) |
 ## Binary Indexed Tree
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Nirmal193/leetcode-sols/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Nirmal193/leetcode-sols/tree/master/1321-get-equal-substrings-within-budget) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Nirmal193/leetcode-sols/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [1470-tweet-counts-per-frequency](https://github.com/Nirmal193/leetcode-sols/tree/master/1470-tweet-counts-per-frequency) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nirmal193/leetcode-sols/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1684-find-latest-group-of-size-m](https://github.com/Nirmal193/leetcode-sols/tree/master/1684-find-latest-group-of-size-m) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nirmal193/leetcode-sols/tree/master/0732-my-calendar-iii) |
 | [0880-rectangle-area-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0880-rectangle-area-ii) |
+| [1470-tweet-counts-per-frequency](https://github.com/Nirmal193/leetcode-sols/tree/master/1470-tweet-counts-per-frequency) |
 | [2161-stock-price-fluctuation](https://github.com/Nirmal193/leetcode-sols/tree/master/2161-stock-price-fluctuation) |
 | [2357-count-integers-in-intervals](https://github.com/Nirmal193/leetcode-sols/tree/master/2357-count-integers-in-intervals) |
 ## Divide and Conquer
