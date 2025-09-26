@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2633-minimum-cost-to-split-an-array](https://github.com/Nirmal193/leetcode-sols/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nirmal193/leetcode-sols/tree/master/2665-minimum-time-to-repair-cars) |
 | [2787-movement-of-robots](https://github.com/Nirmal193/leetcode-sols/tree/master/2787-movement-of-robots) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3763-separate-squares-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3763-separate-squares-i) |
 ## Dynamic Programming
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-find-latest-group-of-size-m](https://github.com/Nirmal193/leetcode-sols/tree/master/1684-find-latest-group-of-size-m) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nirmal193/leetcode-sols/tree/master/2665-minimum-time-to-repair-cars) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3763-separate-squares-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3763-separate-squares-i) |
 ## Ordered Set
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Nirmal193/leetcode-sols/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nirmal193/leetcode-sols/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nirmal193/leetcode-sols/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Line Sweep
 |  |
 | ------- |
@@ -427,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Nirmal193/leetcode-sols/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+## Enumeration
+|  |
+| ------- |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 <!---LeetCode Topics End-->
