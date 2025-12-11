@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-find-latest-group-of-size-m](https://github.com/Nirmal193/leetcode-sols/tree/master/1684-find-latest-group-of-size-m) |
 | [1696-strange-printer-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1696-strange-printer-ii) |
 | [1902-car-fleet-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1902-car-fleet-ii) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/Nirmal193/leetcode-sols/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Nirmal193/leetcode-sols/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2245-destroying-asteroids](https://github.com/Nirmal193/leetcode-sols/tree/master/2245-destroying-asteroids) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-largest-1-bordered-square](https://github.com/Nirmal193/leetcode-sols/tree/master/1239-largest-1-bordered-square) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Nirmal193/leetcode-sols/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Nirmal193/leetcode-sols/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/Nirmal193/leetcode-sols/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Nirmal193/leetcode-sols/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/Nirmal193/leetcode-sols/tree/master/2633-minimum-cost-to-split-an-array) |
 ## Stack
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nirmal193/leetcode-sols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1239-largest-1-bordered-square](https://github.com/Nirmal193/leetcode-sols/tree/master/1239-largest-1-bordered-square) |
 | [1696-strange-printer-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1696-strange-printer-ii) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/Nirmal193/leetcode-sols/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Nirmal193/leetcode-sols/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Depth-First Search
 |  |
