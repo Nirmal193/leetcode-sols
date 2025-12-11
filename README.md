@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nirmal193/leetcode-sols/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Nirmal193/leetcode-sols/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2245-destroying-asteroids](https://github.com/Nirmal193/leetcode-sols/tree/master/2245-destroying-asteroids) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Nirmal193/leetcode-sols/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/Nirmal193/leetcode-sols/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nirmal193/leetcode-sols/tree/master/2665-minimum-time-to-repair-cars) |
 | [2787-movement-of-robots](https://github.com/Nirmal193/leetcode-sols/tree/master/2787-movement-of-robots) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Nirmal193/leetcode-sols/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Nirmal193/leetcode-sols/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Nirmal193/leetcode-sols/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Nirmal193/leetcode-sols/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/Nirmal193/leetcode-sols/tree/master/2633-minimum-cost-to-split-an-array) |
 ## Stack
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-strange-printer-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/1696-strange-printer-ii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Nirmal193/leetcode-sols/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Nirmal193/leetcode-sols/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Nirmal193/leetcode-sols/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
