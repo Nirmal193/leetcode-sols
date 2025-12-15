@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Nirmal193/leetcode-sols/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Nirmal193/leetcode-sols/tree/master/0187-repeated-dna-sequences) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nirmal193/leetcode-sols/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0383-ransom-note](https://github.com/Nirmal193/leetcode-sols/tree/master/0383-ransom-note) |
 | [0514-freedom-trail](https://github.com/Nirmal193/leetcode-sols/tree/master/0514-freedom-trail) |
 | [0664-strange-printer](https://github.com/Nirmal193/leetcode-sols/tree/master/0664-strange-printer) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nirmal193/leetcode-sols/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0514-freedom-trail](https://github.com/Nirmal193/leetcode-sols/tree/master/0514-freedom-trail) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Nirmal193/leetcode-sols/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nirmal193/leetcode-sols/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/Nirmal193/leetcode-sols/tree/master/0307-range-sum-query-mutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Nirmal193/leetcode-sols/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/Nirmal193/leetcode-sols/tree/master/0729-my-calendar-i) |
@@ -448,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Nirmal193/leetcode-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nirmal193/leetcode-sols/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
