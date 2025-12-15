@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nirmal193/leetcode-sols/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Nirmal193/leetcode-sols/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0179-largest-number) |
 | [0218-the-skyline-problem](https://github.com/Nirmal193/leetcode-sols/tree/master/0218-the-skyline-problem) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nirmal193/leetcode-sols/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/Nirmal193/leetcode-sols/tree/master/0456-132-pattern) |
 | [0883-car-fleet](https://github.com/Nirmal193/leetcode-sols/tree/master/0883-car-fleet) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Nirmal193/leetcode-sols/tree/master/1228-minimum-cost-tree-from-leaf-values) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nirmal193/leetcode-sols/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Nirmal193/leetcode-sols/tree/master/0367-valid-perfect-square) |
 | [0391-perfect-rectangle](https://github.com/Nirmal193/leetcode-sols/tree/master/0391-perfect-rectangle) |
