@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nirmal193/leetcode-sols/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0223-rectangle-area](https://github.com/Nirmal193/leetcode-sols/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/Nirmal193/leetcode-sols/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Nirmal193/leetcode-sols/tree/master/0367-valid-perfect-square) |
 | [0391-perfect-rectangle](https://github.com/Nirmal193/leetcode-sols/tree/master/0391-perfect-rectangle) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Nirmal193/leetcode-sols/tree/master/0223-rectangle-area) |
 | [0391-perfect-rectangle](https://github.com/Nirmal193/leetcode-sols/tree/master/0391-perfect-rectangle) |
 ## Randomized
 |  |
